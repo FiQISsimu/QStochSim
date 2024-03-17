@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: (Quantum) Tensor network simulator of stochastic processes
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Leonardo
+    family-names: Banchi
+    email: leonardo.banchi@unifi.it
+    affiliation: 'University of Florence, Florence, Italy'
+    orcid: 'https://orcid.org/0000-0002-6324-8754'
+identifiers:
+  - type: url
+    value: 'https://arxiv.org/abs/2312.13473'
